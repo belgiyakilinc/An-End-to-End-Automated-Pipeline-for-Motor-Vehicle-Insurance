@@ -21,8 +21,6 @@ This project transforms a raw, 105,555-row motor vehicle insurance policy portfo
 The project emphasizes **evidence-driven method selection**: every technique used was tested against the data's actual properties (distribution shape, zero-inflation, trend behavior) rather than applied by default, and every abandoned approach is documented along with the reason it was replaced.
 
 📄 **Full write-up (Executive Summary, Workflow, Results, Data Card):** [Notion page link]
-📊 **Kaggle notebook:** [link]
-▶️ **Google Colab:** [link]
 
 ---
 
