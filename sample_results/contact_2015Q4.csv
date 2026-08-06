@@ -1,0 +1,6 @@
+ID,Channel_label,Cost_claims_year,anomaly_score,anomaly_flag,priority
+30233,Acente,5010194,2.74,True,Yüksek
+34467,Broker,4854677,2.74,True,Yüksek
+14629,Broker,2524483,2.59,True,Orta
+1337,Broker,2077641,2.55,True,Düşük
+49788,Acente,1913446,2.53,True,Düşük

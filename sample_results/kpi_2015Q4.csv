@@ -1,0 +1,3 @@
+Channel_label,n_policies,n_unique_customers,total_premium,total_claim_cost,total_claims,n_lapsed,n_extreme_claim,loss_ratio,claim_frequency,avg_claim_severity,lapse_rate,retention_rate_approx,Report_period_Q
+Acente,2396,2396,67196515,46542727,1638,563,3,0.69,0.68,28414.36,0.23,0.77,2015Q4
+Broker,2159,2159,63639093,50156544,1601,687,3,0.79,0.74,31328.26,0.32,0.68,2015Q4
