@@ -103,6 +103,3 @@ This project is released under the MIT License. The dataset is publicly availabl
 
 ---
 
-## Author
-
-[Your name] · [LinkedIn] · [Portfolio/Notion]
